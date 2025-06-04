@@ -19,4 +19,4 @@ ve
 
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
 
-#IDAF25 
+#IDAF25 #TCKültürveTurizmBakanlığı 
