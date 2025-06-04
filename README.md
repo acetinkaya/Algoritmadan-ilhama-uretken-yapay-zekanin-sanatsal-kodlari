@@ -3,3 +3,6 @@
 
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
+
+
+![alternatif metin](
