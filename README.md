@@ -20,4 +20,4 @@ ve
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
 
 #IDAF25 #TCKültürveTurizmBakanlığı #AKM #DijitalSanatFestivali #ÜretkenYZ #GenerativeAI #SanatveTeknoloji #Algoritmadanİlhama #KültürveTurizmBakanlığı #DanışmanlıÖğrenme 
-#Python #GoogleColab #AIArt #AtatürkKültürMerkezi #TürkTelekom #DeğerliHissettirir 
+#Python #GoogleColab #AIArt #AtatürkKültürMerkezi #TürkTelekom #DeğerliHissettirir #İstanbulDijitalSanatFestivali
