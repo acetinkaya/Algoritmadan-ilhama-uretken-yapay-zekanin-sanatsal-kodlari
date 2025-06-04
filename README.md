@@ -9,6 +9,6 @@
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_2.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
 ![alternatif metin](
