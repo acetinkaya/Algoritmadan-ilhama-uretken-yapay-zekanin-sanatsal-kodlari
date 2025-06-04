@@ -15,3 +15,4 @@
 
 https://digitalartfestistanbul.org/idaf-25/
 
+ve
