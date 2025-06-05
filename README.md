@@ -2,7 +2,7 @@
 
 ## T.C. Kültür ve Turizm Bakanlığı’nın katkılarıyla düzenlenen Dijital Sanat Festivali İstanbul 2025 - IDAF’25’e Üretken Yapay Zeka (GenAI) atölye eğitimi gerçekleştirilecektir.
 
- “Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları” atölye çalışması ile  IDAF’25’ te eğitim verecek
+ “Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları” atölye çalışması ile  IDAF’25’ te eğitim verecek olan Öğr. Gör. Ali ÇETİNKAYA; 
 
  
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
