@@ -6,7 +6,8 @@
 
 Fikirden → Algoritmaya → Algoritmadan → Yazılıma → Yazılımdan → Uygulamaya;    
 
-Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken yapay zekâ modelleri 
+Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken yapay zekâ modelleri kullanarak yazılım yoluyla
+ 
 
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
