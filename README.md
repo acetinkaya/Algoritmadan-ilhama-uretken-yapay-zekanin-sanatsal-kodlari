@@ -1,6 +1,7 @@
 # Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları - IDAF'25
 
-## T.C. Kültür ve Turizm Bakanlığı’nın katkılarıyla düzenlenen Dijital Sanat Festivali İstanbul 2025 - IDAF’25’e, 
+## T.C. Kültür ve Turizm Bakanlığı’nın katkılarıyla düzenlenen Dijital Sanat Festivali İstanbul 2025 - IDAF’25’e Üretken Yapay Zeka 
+
 
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
