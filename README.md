@@ -4,7 +4,10 @@
 
  “Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları” atölye çalışması ile  IDAF’25’ te eğitim verecek olan Öğr. Gör. Ali ÇETİNKAYA; 
 
- Fikirden → Algoritmaya → Algoritmadan
+ Fikirden → Algoritmaya → Algoritmadan → Yazılıma → 
+
+ 
+ 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
 
 
