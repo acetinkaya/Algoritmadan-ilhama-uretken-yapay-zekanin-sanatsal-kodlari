@@ -6,8 +6,7 @@
 
 Fikirden → Algoritmaya → Algoritmadan → Yazılıma → Yazılımdan → Uygulamaya;    
 
-Google Colab platformu 
- 
+Google Colab platformu üzerinde Python 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
 
 
