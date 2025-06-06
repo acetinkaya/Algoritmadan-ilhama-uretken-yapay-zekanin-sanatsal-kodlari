@@ -12,7 +12,9 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 ## [Etkinlik Değerlendirmeleri](https://digitalartfestistanbul.org/yetiskin-atolye-2025)
 
-| Etkinlik Günü | Saati | 
+| Etkinlik Günü | Saati | Etkinlik Formu |
+
+
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
 
