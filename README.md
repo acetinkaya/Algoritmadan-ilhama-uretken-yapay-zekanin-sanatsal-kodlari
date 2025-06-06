@@ -10,7 +10,7 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
  
 ---
 
-## [Etkinlik Değerlendirmeleri](https://digitalartfestistanbul.org/yetiskin-atolye-2025)
+## [IDAF'25 Etkinlik Değerlendirmeleri](https://digitalartfestistanbul.org/yetiskin-atolye-2025)
 
 | Etkinlik Günü | Saati | Etkinlik Formu |     
 |----------------|--------------|-----------|   
