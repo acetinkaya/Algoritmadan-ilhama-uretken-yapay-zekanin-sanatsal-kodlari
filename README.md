@@ -1,5 +1,7 @@
 # Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları - IDAF'25    
 
+![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
+
 ## T.C. Kültür ve Turizm Bakanlığı’nın katkılarıyla düzenlenen Dijital Sanat Festivali İstanbul 2025 - IDAF’25’e Üretken Yapay Zeka (GenAI) atölye eğitimi gerçekleştirilecektir.   
 
 “Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları” atölye çalışması ile  IDAF’25’ te eğitim verecek olan Öğr. Gör. Ali ÇETİNKAYA;    
@@ -19,10 +21,6 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 | 15 Haziran 2025  | 11:00  | Form Sayfası  |
 | 15 Haziran 2025  | 16:00  | Form Sayfası  |
 ---
-
-
-![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
-
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_1.png)
 
