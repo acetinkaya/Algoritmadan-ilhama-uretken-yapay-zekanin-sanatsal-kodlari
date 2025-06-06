@@ -14,7 +14,7 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 | Etkinlik Günü | Saati | Etkinlik Formu |     
 |----------------|--------------|-----------|   
-| 13 Haziran 2025  
+| 13 Haziran 2025  | 11:00  | 
 
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/idaf.png)
