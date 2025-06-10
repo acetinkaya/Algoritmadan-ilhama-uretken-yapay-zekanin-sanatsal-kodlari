@@ -21,6 +21,10 @@ IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saat
 Link üzerinden saat seçimi yaptıktan sonra katılımcılara ait olan "Bilet Bilgileri" bölümü gelmektedir. Rezarvasyonun bu kısmında seçilen gün ve saat bilgisi eşliğinde katılımcılardan İsim, Soyisim, E-mail ve Ceptelefonu 
 bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 festival giriş QR kodlu bilet oluşmaktadır. 
 
+![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/Etkinlik-idaf25-1.png.png)
+
+![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/Etkinlik-idaf25-2.png.png)
+
 
 ---
 
