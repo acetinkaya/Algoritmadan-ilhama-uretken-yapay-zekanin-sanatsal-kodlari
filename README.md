@@ -22,10 +22,10 @@ IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saat
 
 | Etkinlik Günü | Saati | Atölye Bileti | Atölye Degerlendirme Formu |     
 |----------------|--------------|-----------|-----------| 
-| 13 Haziran 2025  | 11:00  | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/151) | Form Sayfası  |  
-| 13 Haziran 2025  | 16:00  | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/152) | Form Sayfası  |  
-| 15 Haziran 2025  | 11:00  | IDAF'25 Bileti | Form Sayfası  |  
-| 15 Haziran 2025  | 16:00  | IDAF'25 Bileti | Form Sayfası  |  
+| 13 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/151) | Atölye Degerlendirmesi |  
+| 13 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/152) | Atölye Degerlendirmesi |  
+| 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/155) | Atölye Degerlendirmesi |  
+| 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/156) | Atölye Degerlendirmesi |  
 
 ---
 
