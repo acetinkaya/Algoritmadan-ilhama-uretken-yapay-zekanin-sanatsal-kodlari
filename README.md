@@ -14,7 +14,7 @@ IDAF'25 Sayfası: https://digitalartfestistanbul.org/idaf-25/
 
 IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saatlerinde eğitimi Teksim - Atatürk Kültür Merkezi, Beyoğlu / İstanbul ‘da gerçekleştirecektir.
 
-📚 Festivaldeki tüm atölyelere ön kayıt gereklidir ve Ücretsiz biletler için: 
+📚 Festivaldeki tüm atölyelere ön kayıt gereklidir ve Ücretsiz biletler için: 🔗 https://digitalartfestistanbul.org/yetiskin-atolye-2025
 
 ---
 
