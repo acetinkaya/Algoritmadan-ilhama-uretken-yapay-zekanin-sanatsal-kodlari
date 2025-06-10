@@ -39,24 +39,21 @@ Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_2.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
+Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/152
 
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
+Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/155
 
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
+Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/156
 
 ---
-
-
-
 
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
 
