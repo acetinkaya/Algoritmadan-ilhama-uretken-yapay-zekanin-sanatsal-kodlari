@@ -33,6 +33,10 @@ IDAF'25 Biletleri İçin Sayfa https://digitalartfestistanbul.org/yetiskin-atoly
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_1.png)
 
+Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
+
+---
+
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_2.png)
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
