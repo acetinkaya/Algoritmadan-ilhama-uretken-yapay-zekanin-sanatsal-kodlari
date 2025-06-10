@@ -21,11 +21,11 @@ IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saat
 ## ["IDAF'25 Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları" Etkinliği Değerlendirmesi](https://digitalartfestistanbul.org/yetiskin-atolye-2025)
 
 | Etkinlik Günü | Saati | Atölye Bileti | Atölye Degerlendirme Formu |     
-|----------------|--------------|-----------|   
-| 13 Haziran 2025  | 11:00  | IDAF'25 Bileti | Form Sayfası  |
-| 13 Haziran 2025  | 16:00  | IDAF'25 Bileti | Form Sayfası  |
-| 15 Haziran 2025  | 11:00  | IDAF'25 Bileti | Form Sayfası  |
-| 15 Haziran 2025  | 16:00  | IDAF'25 Bileti | Form Sayfası  |
+|----------------|--------------|-----------|-----------| 
+| 13 Haziran 2025  | 11:00  | IDAF'25 Bileti | Form Sayfası  |  
+| 13 Haziran 2025  | 16:00  | IDAF'25 Bileti | Form Sayfası  |  
+| 15 Haziran 2025  | 11:00  | IDAF'25 Bileti | Form Sayfası  |  
+| 15 Haziran 2025  | 16:00  | IDAF'25 Bileti | Form Sayfası  |  
 
 ---
 
