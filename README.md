@@ -19,7 +19,7 @@ IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saat
 📚 Festivaldeki tüm atölyelere ön kayıt gereklidir ve Ücretsiz biletler için: 🔗 https://digitalartfestistanbul.org/yetiskin-atolye-2025
 
 Link üzerinden saat seçimi yaptıktan sonra katılımcılara ait olan "Bilet Bilgileri" bölümü gelmektedir. Rezarvasyonun bu kısmında seçilen gün ve saat bilgisi eşliğinde katılımcılardan İsim, Soyisim, E-mail ve Ceptelefonu 
-bilgilerini IDAF'25 istemektedir. 
+bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra 
 
 
 ---
