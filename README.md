@@ -45,6 +45,10 @@ Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
+Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
+
+---
+
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
 ---
