@@ -12,7 +12,7 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 IDAF'25 Sayfası: https://digitalartfestistanbul.org/idaf-25/
 
-IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saatlerinde eğitimi Teksim - Atatürk Kültür Merkezi, 
+IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saatlerinde eğitimi Teksim - Atatürk Kültür Merkezi, Beyoğlu / İstanbul ‘da 
 
  
 ---
