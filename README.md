@@ -12,8 +12,7 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 IDAF'25 Sayfası: https://digitalartfestistanbul.org/idaf-25/
 
-IDAF’25 
-
+IDAF’25 atölye eğitimi
  
 ---
 
