@@ -9,6 +9,8 @@
 Fikirden → Algoritmaya → Algoritmadan → Yazılıma → Yazılımdan → Uygulamaya;    
 
 Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken yapay zekâ modelleri kullanarak yazılım yoluyla etkileşimli uygulamalar gerçekleştirecektir. 
+
+
  
 ---
 
@@ -23,6 +25,8 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 ---
 
+IDAF'25 Biletleri İçin Sayfa https://digitalartfestistanbul.org/yetiskin-atolye-2025/
+
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_1.png)
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_2.png)
@@ -33,7 +37,6 @@ Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken y
 
 ---
 
-https://digitalartfestistanbul.org/idaf-25/
 
 ve
 
