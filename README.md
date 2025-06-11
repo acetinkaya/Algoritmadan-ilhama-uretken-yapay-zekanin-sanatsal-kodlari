@@ -68,6 +68,8 @@ Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/156
 IDAF’25’in teması “Bağlanıyor.” Dijitalleşmenin yaşamın her yönünü dönüştürdüğü bir dönemde, bağlantı kavramı, ilişkiler, topluluklar ve varoluş hakkında geleneksel anlayışları zorlayan şekillerde evrilmektedir. Fiziksel ve sanal dünyalar arasındaki evrimsel ilişkiler, 
 insan etkileşimlerini yeniden tanımlarken, varoluşun felsefi ve ontolojik temellerini de sorgulamaktadır.
 
+IDAF’25, Şehir/Vatandaş, Sürdürülebilirlik/Ekoloji, Dijital İkiz/Dijital Yerliler, Bilim, İkili/İkili Olmayan, İnovasyon/Yaratıcılık ve Mimari/Taklitçilik gibi temalarla, çağdaş dünyanın karmaşık bağlantılarını derinlemesine keşfetmeyi amaçlamaktadır.
+
 
 
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
