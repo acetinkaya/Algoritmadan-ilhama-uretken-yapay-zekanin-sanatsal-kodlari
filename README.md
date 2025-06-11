@@ -70,8 +70,8 @@ insan etkileşimlerini yeniden tanımlarken, varoluşun felsefi ve ontolojik tem
 
 IDAF’25, Şehir/Vatandaş, Sürdürülebilirlik/Ekoloji, Dijital İkiz/Dijital Yerliler, Bilim, İkili/İkili Olmayan, İnovasyon/Yaratıcılık ve Mimari/Taklitçilik gibi temalarla, çağdaş dünyanın karmaşık bağlantılarını derinlemesine keşfetmeyi amaçlamaktadır.
 
-ıDAF-25, bize teknoloji çağında insan olmanın anlamını yeniden düşünmek için bir fırsat sunarken dijital iletişimden sanal yakınlığa kadar teknolojinin etkileşimlerimizi nasıl şekillendirdiğini ele alarak, merkeziyetsiz bir dünyadaki bağlantılara dair geniş bir bakış 
-
+IDAF-25, bize teknoloji çağında insan olmanın anlamını yeniden düşünmek için bir fırsat sunarken dijital iletişimden sanal yakınlığa kadar teknolojinin etkileşimlerimizi nasıl şekillendirdiğini ele alarak, merkeziyetsiz bir dünyadaki bağlantılara dair geniş bir bakış 
+açısı sağlayacaktır. Sanatsal vizyonunuzu paylaşmak ve bu bağlantıların felsefi ve varoluşsal boyutlarını diğer sanatçılar, küratörler ve düşünürlerle birlikte keşfetmek için sizi IDAF-25’e davet ediyoruz.
 
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
 
