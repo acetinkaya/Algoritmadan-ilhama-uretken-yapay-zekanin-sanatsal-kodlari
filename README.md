@@ -65,6 +65,9 @@ Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/156
 
 ---
 
+IDAF’25’in teması 
+
+
 https://digitalartfestistanbul.org/yetiskin-atolye-2025/
 
 #IDAF25 #TCKültürveTurizmBakanlığı #AKM #DijitalSanatFestivali #ÜretkenYZ #GenerativeAI #SanatveTeknoloji #Algoritmadanİlhama #KültürveTurizmBakanlığı #DanışmanlıÖğrenme 
