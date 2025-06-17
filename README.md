@@ -25,17 +25,21 @@ bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 f
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/Etkinlik-idaf25-2.png.png)
 
-
 ---
 
 ## ["IDAF'25 Algoritmadan İlham’a: Üretken Yapay Zekanın Sanatsal Kodları" Etkinliği Değerlendirmesi](https://digitalartfestistanbul.org/yetiskin-atolye-2025)
 
 | Etkinlik Günü | Saati | Atölye Bileti | Atölye Degerlendirme Formu |     
 |----------------|--------------|-----------|-----------| 
-| 13 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/151) | Atölye Degerlendirmesi |  
-| 13 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/152) | Atölye Degerlendirmesi |  
-| 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/155) | Atölye Degerlendirmesi |  
-| 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/156) | Atölye Degerlendirmesi |  
+| 13 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/151) | 
+| 13 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/152) | 
+| 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/155) | 
+| 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/156) | 
+
+# 📘 Ders 
+
+
+
 
 ---
 
