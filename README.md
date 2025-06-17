@@ -36,7 +36,7 @@ bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 f
 | 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/155) | 
 | 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/156) | 
 
-# 📘 Ders 
+# 📘 Ders Video İçerikleri:
 
 
 
