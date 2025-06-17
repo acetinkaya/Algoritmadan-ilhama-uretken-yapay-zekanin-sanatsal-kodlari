@@ -38,6 +38,7 @@ bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 f
 
 # 📘 Ders Video İçerikleri:
 
+Üretken     
 
 
 
