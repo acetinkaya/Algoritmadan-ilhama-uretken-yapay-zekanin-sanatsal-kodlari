@@ -31,10 +31,10 @@ bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 f
 
 | Etkinlik Günü | Saati | Atölye Bileti | Atölye Degerlendirme Formu |     
 |----------------|--------------|-----------|-----------| 
-| 13 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/151) | 
-| 13 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/152) | 
-| 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/155) | 
-| 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://ticket.digitalartfestistanbul.org/etkinlik/156) | 
+| 13 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://www.digitalartfestistanbul.org/idaf25-atoyleler) | 
+| 13 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://www.digitalartfestistanbul.org/idaf25-atoyleler) | 
+| 15 Haziran 2025 | 11:00 | [IDAF'25 Bileti](https://www.digitalartfestistanbul.org/idaf25-atoyleler) | 
+| 15 Haziran 2025 | 16:00 | [IDAF'25 Bileti](https://www.digitalartfestistanbul.org/idaf25-atoyleler) | 
 
 # 📘 Ders Video İçerikleri:
 
@@ -42,10 +42,9 @@ bilgilerini IDAF'25 istemektedir. KVKK metninide işaretledikten sonra IDAF'25 f
 Atölye Uygulamasının Videosu :> https://youtu.be/YWJW82gEuR4
 
 
-
 ---
 
-IDAF'25 Biletleri İçin Sayfa https://digitalartfestistanbul.org/yetiskin-atolye-2025/
+IDAF'25 Biletleri İçin Sayfa [https://digitalartfestistanbul.org/yetiskin-atolye-2025/](https://www.digitalartfestistanbul.org/idaf25-atoyleler)
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_1.png)
 
@@ -55,19 +54,19 @@ Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/151
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_2.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/152
+Etkinlik Bileti İçin: [https://ticket.digitalartfestistanbul.org/etkinlik/152](https://www.digitalartfestistanbul.org/idaf25-atoyleler)
 
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/155
+Etkinlik Bileti İçin: [https://ticket.digitalartfestistanbul.org/etkinlik/155](https://www.digitalartfestistanbul.org/idaf25-atoyleler)
 
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/Algoritmadan-ilhama-uretken-yapay-zekanin-sanatsal-kodlari/blob/main/IDAF25_atolye_3.png)
 
-Etkinlik Bileti İçin: https://ticket.digitalartfestistanbul.org/etkinlik/156
+Etkinlik Bileti İçin: [https://ticket.digitalartfestistanbul.org/etkinlik/156](https://www.digitalartfestistanbul.org/idaf25-atoyleler)
 
 ---
 
@@ -79,7 +78,7 @@ IDAF’25, Şehir/Vatandaş, Sürdürülebilirlik/Ekoloji, Dijital İkiz/Dijital
 IDAF-25, bize teknoloji çağında insan olmanın anlamını yeniden düşünmek için bir fırsat sunarken dijital iletişimden sanal yakınlığa kadar teknolojinin etkileşimlerimizi nasıl şekillendirdiğini ele alarak, merkeziyetsiz bir dünyadaki bağlantılara dair geniş bir bakış 
 açısı sağlayacaktır. Sanatsal vizyonunuzu paylaşmak ve bu bağlantıların felsefi ve varoluşsal boyutlarını diğer sanatçılar, küratörler ve düşünürlerle birlikte keşfetmek için sizi IDAF-25’e davet ediyoruz.
 
-https://digitalartfestistanbul.org/yetiskin-atolye-2025/
+[https://digitalartfestistanbul.org/yetiskin-atolye-2025/](https://www.digitalartfestistanbul.org/idaf25-atoyleler)
 
 #IDAF25 #TCKültürveTurizmBakanlığı #AKM #DijitalSanatFestivali #ÜretkenYZ #GenerativeAI #SanatveTeknoloji #Algoritmadanİlhama #KültürveTurizmBakanlığı #DanışmanlıÖğrenme 
 #Python #GoogleColab #AIArt #AtatürkKültürMerkezi #TürkTelekom #DeğerliHissettirir #İstanbulDijitalSanatFestivali
