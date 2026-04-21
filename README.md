@@ -10,7 +10,7 @@ Fikirden → Algoritmaya → Algoritmadan → Yazılıma → Yazılımdan → Uy
 
 Google Colab platformu üzerinde Python programlama dili kodlarıyla, Üretken yapay zekâ modelleri kullanarak yazılım yoluyla etkileşimli uygulamalar gerçekleştirecektir. 
 
-IDAF'25 Sayfası: https://digitalartfestistanbul.org/idaf-25/
+IDAF'25 Sayfası: [https://digitalartfestistanbul.org/idaf-25/](https://www.digitalartfestistanbul.org/idaf25)
 
 IDAF’25 atölye eğitimi 13 ve 15 Haziran 2025 tarihlerinde 11:00 & 16:00 saatlerinde eğitimi Teksim - Atatürk Kültür Merkezi, Beyoğlu / İstanbul ‘da gerçekleştirecektir.
 
